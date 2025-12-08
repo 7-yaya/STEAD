@@ -1,4 +1,4 @@
-# Provably Secure Robust Image Steganography via Cross-Modal Error Correction
+# STEAD: Robust Provably Secure Linguistic Steganography with Diffusion Language Model
 
 
 <div align="center">
